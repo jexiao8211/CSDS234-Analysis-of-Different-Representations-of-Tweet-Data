@@ -2,6 +2,7 @@
 CSDS 234 Final Project: Jerry Xiao, Quoc Trung Nguyen, Akansh Devandra
 
 Analyzing query time and space complexity of different vectorized representations of twitter data.  
+<br></br>
 
 
 **Vectorized Represntations:**
@@ -16,6 +17,7 @@ Brown Clustering: clustering words with similar meaning
 **Querying:**
 
 Select tweets containing user-passed keywords  
+<br></br>
 
 
 **Experimentation:**
