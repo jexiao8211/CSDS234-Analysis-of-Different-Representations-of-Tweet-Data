@@ -11,7 +11,7 @@ CountVect: Basic keyword extraction
 TF-IDF: Measures frequenct and relevance of keywords
 
 Brown Clustering: clustering words with similar meaning  
-
+<br></br>
 
 **Querying:**
 
