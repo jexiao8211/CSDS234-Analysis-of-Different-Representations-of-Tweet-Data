@@ -1,7 +1,7 @@
 # Analysis-of-Different-Representations-of-Tweet-Data
 CSDS 234 Final Project: Jerry Xiao, Quoc Trung Nguyen, Akansh Devandra
 
-Analyzing query time and space complexity of different vectorized representations of twitter data. \
+Analyzing query time and space complexity of different vectorized representations of twitter data.  
 
 
 **Vectorized Represntations:**
@@ -10,12 +10,12 @@ CountVect: Basic keyword extraction
 
 TF-IDF: Measures frequenct and relevance of keywords
 
-Brown Clustering: clustering words with similar meaning\
+Brown Clustering: clustering words with similar meaning  
 
 
 **Querying:**
 
-Select tweets containing user-passed keywords\
+Select tweets containing user-passed keywords  
 
 
 **Experimentation:**
